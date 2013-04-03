@@ -1,0 +1,7 @@
+		Manuel d'utilisation
+______________________________________________________________
+
+Ce programme vous permez de calculer la moyenne de deux nombre.
+En le lançant, l'exécutable "moyenne" vous demandera de saisir
+le premier nombre puis le deuxième.
+Enfin, il affichera le résultat qui est la somme des deux nombres
